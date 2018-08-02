@@ -1,3 +1,7 @@
+# HEAD
+
+- Fixed: `selector-descendant-combinator-no-non-space` false positives for calculations with parentheses ([#3508](https://github.com/stylelint/stylelint/pull/3508))
+
 # 9.4.0
 
 -   Added: bundled support for styles in template literals ([#3405](https://github.com/stylelint/stylelint/pull/3405)).
